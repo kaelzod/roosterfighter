@@ -4,5 +4,14 @@
   "artist": "Shu Sakuratani",
   "author": "Shu Sakuratani",
   "cover": "https://manga-republic.com/media/binary/003/351/500/3351500.webp",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "El Gallo que lucha contra los Demonios",
+      "volume": "1",
+      "last_updated": "1775604678",
+      "groups": {
+        "Kael": "/proxy/api/imgur/chapter/AVHXIgU"
+      }
+    }
+  }
 }
