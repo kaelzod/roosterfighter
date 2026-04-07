@@ -1,0 +1,22 @@
+{
+  "title": "RoosterFighter",
+  "description": "Un gallo extremadamente fuerte que derrota a las Bestias Mutantes. ¡Acaba con monstruos gigantes usando su destructivo grito de guerra: \"¡KOKE-KOKKO!\"!",
+  "artist": "Shu Sakuratani",
+  "author": "Shu Sakuratani",
+  "cover": "https://manga-republic.com/media/binary/003/351/500/3351500.webp",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1775599338",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1xbKjheOKjhtEVlLVswufLi4L6AuZGanO",
+          "https://drive.usercontent.google.com/download?id=1n2L5xtI8xjOJPzA5tZ9wZ1_MkDseoz1N",
+          "https://drive.usercontent.google.com/download?id=1wPNXR8tIOibayshK7DVyR_t-rgoikjHv",
+          "https://drive.usercontent.google.com/download?id=1FLCGe3cPoJUWSbAdQ-VWILef7IrTuALu"
+        ]
+      }
+    }
+  }
+}
