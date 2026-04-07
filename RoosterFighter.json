@@ -6,11 +6,11 @@
   "cover": "https://manga-republic.com/media/binary/003/351/500/3351500.webp",
   "chapters": {
     "1": {
-      "title": "Pluma 01 - El gallo que Lucha contra los Demonios",
+      "title": "El gallo que Lucha contra los Demonios",
       "volume": "1",
       "last_updated": "1775599338",
       "groups": {
-        "": "/proxy/api/imgur/chapter/AVHXIgU"
+        "Kael": "/proxy/api/imgur/chapter/AVHXIgU"
       }
     }
   }
